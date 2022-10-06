@@ -7,3 +7,4 @@ The two visualizations below show the top starting locations and top ending loca
 ![image](https://user-images.githubusercontent.com/108709071/194197885-89a72388-bae8-4b2a-bd2a-a38464f4c8be.png)
 
 The visulizations below shows 
+![image](https://user-images.githubusercontent.com/108709071/194198370-ae80fc50-cd1f-416e-a105-c7b1346702da.png)
