@@ -8,3 +8,4 @@ The two visualizations below show the top starting locations and top ending loca
 
 The visulizations below shows 
 ![image](https://user-images.githubusercontent.com/108709071/194198370-ae80fc50-cd1f-416e-a105-c7b1346702da.png)
+![image](https://user-images.githubusercontent.com/108709071/194198403-3c445c53-c7e6-4dd1-af2b-22250d7316f5.png)
