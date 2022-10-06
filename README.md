@@ -21,3 +21,5 @@ The visualiztion below shws that the peak day of the week to ride is Thursday an
 According to the analysis, most of the rides are short duration rides, between 2 to 20 minutes. And of all the users, male users are majority. Peak hours of a day to ried is 6am to 9am and 5pm to 8pm. And peak day of week is Thursday. Most of the users are subscribers. Also, the results show that the trend between male and female users are identical.
 
 For further analysis, since New York City is a major tourist attraction and a business hub, so situation for Des Moines might be different. So it will be good to analyze what type of crowd is attracted to Des Moines. And weather is also an important factor that might affect bike riding. It will be a good idea to analyze the weather in different months and see how it affect ride numbers, and trip durations etc.
+
+[link to dashboard]([LINK GOES HERE](https://public.tableau.com/app/profile/yan.he2480/viz/NYCitibike_16650202245110/NYCitibike))
