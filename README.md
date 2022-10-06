@@ -10,5 +10,8 @@ The visualization below show the checkout times by all users and breakdown of ch
 ![image](https://user-images.githubusercontent.com/108709071/194198370-ae80fc50-cd1f-416e-a105-c7b1346702da.png)
 ![image](https://user-images.githubusercontent.com/108709071/194198403-3c445c53-c7e6-4dd1-af2b-22250d7316f5.png)
 
-
+The two visualizations below show the trip by weekdays by each hour and by different genders. Visualizations shows that the rides peak hours are 6am to 9am and 5pm to 8pm. Also the visualiztion shows a similar trend between male and female users.
 ![image](https://user-images.githubusercontent.com/108709071/194199205-028c8b33-c595-4575-aa01-8c06d9ddd090.png)
+![image](https://user-images.githubusercontent.com/108709071/194199299-c6d0835b-62fe-4eb5-aeeb-e0735acdd398.png)
+
+
