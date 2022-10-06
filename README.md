@@ -14,4 +14,7 @@ The two visualizations below show the trip by weekdays by each hour and by diffe
 ![image](https://user-images.githubusercontent.com/108709071/194199205-028c8b33-c595-4575-aa01-8c06d9ddd090.png)
 ![image](https://user-images.githubusercontent.com/108709071/194199299-c6d0835b-62fe-4eb5-aeeb-e0735acdd398.png)
 
+The visualiztion below shws that the peak day of the week to ride is Thursday and most users are subscribers (long term users). Again, similar trend between male and female users.
+![image](https://user-images.githubusercontent.com/108709071/194199939-dc14b554-0186-456a-94f4-09b01b52ba39.png)
 
+## Summary:
