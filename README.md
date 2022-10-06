@@ -9,3 +9,6 @@ The two visualizations below show the top starting locations and top ending loca
 The visualization below show the checkout times by all users and breakdown of checkout times by different gender users. The visualization shows that most of the rides are between 2 to 20 minutes and most of the uers are male. And between make and femal users, the trip duration are identical, most are between 2 to 20 minutes.
 ![image](https://user-images.githubusercontent.com/108709071/194198370-ae80fc50-cd1f-416e-a105-c7b1346702da.png)
 ![image](https://user-images.githubusercontent.com/108709071/194198403-3c445c53-c7e6-4dd1-af2b-22250d7316f5.png)
+
+
+![image](https://user-images.githubusercontent.com/108709071/194199205-028c8b33-c595-4575-aa01-8c06d9ddd090.png)
